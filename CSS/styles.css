@@ -206,7 +206,8 @@ body {
 
 .contacts-container,
 .tech-skills,
-.soft-skills {
+.soft-skills,
+.my-hobbies {
     margin: 40px 0 0 40px;
 }
 
@@ -248,33 +249,16 @@ body {
     color: #F50021;
 }
 
-.tech-skillslist {
+.skillslist {
     margin: 0px;
     padding: 0 0 0 24px;
 }
 
-.tech-skillslist-item {
+.skillslist-item {
     color: #EF3054;
 }
 
-.tech-skillslist-text {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #F5F5F5;
-}
-
-.soft-skillslist {
-    margin: 0px;
-    padding: 0 0 0 24px;
-}
-
-.soft-skillslist-item {
-    color: #EF3054;
-}
-
-.soft-skillslist-text {
+.skillslist-text {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
